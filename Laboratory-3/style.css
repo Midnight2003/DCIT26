@@ -1,4 +1,3 @@
-/* ---- RESET & BASE ---- */
 * {
   margin: 0;
   padding: 0;
@@ -10,7 +9,6 @@ body {
   color: #1f2937;
 }
 
-/* ---- HEADER ---- */
 header {
   display: flex;
   justify-content: space-between;
@@ -41,7 +39,6 @@ nav a:hover {
   color: white;
 }
 
-/* ---- HERO ---- */
 .hero {
   display: flex;
   justify-content: center;
@@ -87,7 +84,6 @@ nav a:hover {
   border-radius: 6px;
 }
 
-/* ---- INFO SECTION ---- */
 .info {
   padding: 64px 112px;
   background-color: white;
@@ -125,7 +121,6 @@ nav a:hover {
   text-align: center;
 }
 
-/* ---- QUOTE SECTION ---- */
 .quote {
   background-color: #e5e7eb;
   padding: 64px 224px;
@@ -148,7 +143,6 @@ cite {
   font-size: 1rem;
 }
 
-/* ---- CALL TO ACTION ---- */
 .cta {
   background-color: #1f2937;
   padding: 48px 112px;
@@ -191,7 +185,6 @@ cite {
   color: #3882f6;
 }
 
-/* ---- FOOTER ---- */
 footer {
   background-color: #1f2937;
   color: #e5e7eb;
